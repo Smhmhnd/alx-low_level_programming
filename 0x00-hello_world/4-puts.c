@@ -3,7 +3,7 @@
 /*
  * main-Printing
  *
- * return (0)
+ * return Always 0 (successful)
  */
 
 int main(void)
